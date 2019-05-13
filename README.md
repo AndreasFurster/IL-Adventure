@@ -5,6 +5,7 @@ Exploring Intermediate Language...
 1. [Addition](/Addition.il)
 1. [LocalVariables](/LocalVariables.il)
 1. [Branching](/Branching.il)
+1. [Input](/Input.il)
 
 ## Assemble & run
 ```
