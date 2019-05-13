@@ -10,7 +10,7 @@
     // Create a local of type float32 with the name Total
     // The "init" is a modifier that indicates that the variables have to be initialised before use.
     // TODO: Can we do it without init?
-    .locals init(float32 Total)
+    .locals init (float32 Total)
 
     // Push a float to the stack
     ldc.r4 3.1
@@ -40,7 +40,7 @@
 
     // It is more common to work with local variables just in terms of the index number.
     // The index number gets automagickly assigned if it's not speciefied
-    .locals init([1] int32 Total2)
+    .locals init ([1] int32 Total2)
 
     ldc.i4 100
 
